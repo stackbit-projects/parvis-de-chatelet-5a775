@@ -15,7 +15,7 @@ sections:
       Notre équipe conçoit pour vous le site web qui vous convient et qui vous
       permettra d'attirer plus de clients.
     actions:
-      - label: Learn More
+      - label: En savoir plus
         url: /features
         style: primary
   - section_id: features
