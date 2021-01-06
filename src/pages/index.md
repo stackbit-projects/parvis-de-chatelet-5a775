@@ -7,8 +7,13 @@ sections:
     image_alt: App preview
     title: Agence Web à Paris
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Le Parvis de Châtelet, Agence web & digitale fondée en 2021 à Paris,
+      experte SEO.
+
+      Développement web & Référencement.
+
+      Notre équipe conçoit pour vous le site web qui vous convient et qui vous
+      permettra d'attirer plus de clients.
     actions:
       - label: Learn More
         url: /features
